@@ -1,4 +1,4 @@
-#Tic-Tac-Toe-AI
+# Tic-Tac-Toe-AI
 
 A Tic Tac Toe game implemented with two AI approaches:
 	•	Minimax (perfect-play, deterministic)
@@ -7,7 +7,7 @@ A Tic Tac Toe game implemented with two AI approaches:
 The project allows a human to play against the AI and demonstrates the difference between search-based AI and learning-based AI on a simple game.
 ---
 
-##Features
+## Features
 	•	Terminal-based Tic Tac Toe game
 	•	Human vs AI gameplay
 	•	Minimax agent (plays perfectly, never loses)
@@ -17,7 +17,7 @@ The project allows a human to play against the AI and demonstrates the differenc
 
   ---
 
-  ##Project Structure
+  ## Project Structure
   ```
 Tic-Tac-Toe-AI/
 ├── env.py          # Game environment and rules
@@ -29,8 +29,7 @@ Tic-Tac-Toe-AI/
 ├── .gitignore
 └── README.md
 ```
-##How It Works
-
+## How It Works
 1. Environment (env.py)
 	•	Manages the board state
 	•	Validates moves
