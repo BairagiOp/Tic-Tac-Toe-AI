@@ -1,8 +1,9 @@
 # Tic-Tac-Toe-AI
 
-A Tic Tac Toe game implemented with two AI approaches:
-	•	Minimax (perfect-play, deterministic)
-	•	Q-Learning (reinforcement learning)
+A Tic Tac Toe game implemented with two AI approaches: <br>
+	•	Minimax (perfect-play, deterministic)<br>
+	•	Q-Learning (reinforcement learning)<br>
+
 
 The project allows a human to play against the AI and demonstrates the difference between search-based AI and learning-based AI on a simple game.
 ---
