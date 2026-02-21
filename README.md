@@ -31,21 +31,21 @@ Tic-Tac-Toe-AI/
 └── README.md
 ```
 ## How It Works
-1. Environment (env.py)
-	•	Manages the board state
-	•	Validates moves
-	•	Detects wins, draws, and terminal states
+1. Environment (env.py)<br>
+	•	Manages the board state<br>
+	•	Validates moves<br>
+	•	Detects wins, draws, and terminal states<br>
 
-2. Minimax Agent (minimax.py)
-	•	Explores all possible future moves
-	•	Assumes optimal opponent play
-	•	Guarantees win or draw
-	•	No training required
+2. Minimax Agent (minimax.py)<br>
+	•	Explores all possible future moves<br>
+	•	Assumes optimal opponent play<br>
+	•	Guarantees win or draw<br>
+	•	No training required<br>
 
-3. Q-Learning Agent (agent.py, train.py)
-	•	Learns state–action values using rewards
-	•	Improves by playing many games
-	•	Performance depends on training quality
+3. Q-Learning Agent (agent.py, train.py)<br>
+	•	Learns state–action values using rewards<br>
+	•	Improves by playing many games<br>
+	•	Performance depends on training quality<br>
 ---
 
 Example Gameplay
