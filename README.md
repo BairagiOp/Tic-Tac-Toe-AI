@@ -1,4 +1,7 @@
 # Tic-Tac-Toe-AI
+## 🚀 Live Demo
+👉 [Play it here](https://tic-tac-toe-ai-jgfo.onrender.com)
+> ⏳ First load may take ~30 seconds to wake up (free tier)
 
 A Tic Tac Toe game implemented with two AI approaches: <br>
 	•	Minimax (perfect-play, deterministic)<br>
